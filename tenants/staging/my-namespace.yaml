@@ -1,4 +1,4 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: nm-from-core-stag
+  name: nm-from-stag
